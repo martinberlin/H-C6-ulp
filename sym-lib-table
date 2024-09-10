@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Espressif")(type "KiCad")(uri "${KIPRJMOD}/components/symbol/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "RTC")(type "KiCad")(uri "${KIPRJMOD}/components/symbol/RV-3032-C7.kicad_sym")(options "")(descr ""))
+  (lib (name "Antenna")(type "KiCad")(uri "${KIPRJMOD}/components/symbol/2450AT42E0100E-ANT.kicad_sym")(options "")(descr ""))
+  (lib (name "SGM")(type "KiCad")(uri "${KIPRJMOD}/components/symbol/SGM6029_easyeda2kicad.kicad_sym")(options "")(descr ""))
+  (lib (name "EPD")(type "KiCad")(uri "${KIPRJMOD}/components/symbol/FH12-24S-0.5SH_55_.kicad_sym")(options "")(descr ""))
+)
