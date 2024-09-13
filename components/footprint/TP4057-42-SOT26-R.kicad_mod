@@ -117,7 +117,7 @@
   (pad "4" smd rect (at 1.3589 0.950001) (size 0.9906 0.5588) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b7ac7795-71ae-4c1b-91ca-e52f3addaf15))
   (pad "5" smd rect (at 1.3589 0) (size 0.9906 0.5588) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3c724191-cf16-4a2b-ab69-0fa2ff0ce67c))
   (pad "6" smd rect (at 1.3589 -0.950001) (size 0.9906 0.5588) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2dd001ca-beb3-416d-af2e-736eb68041d4))
-  (model "${KIPRJMOD}/parts/3d/TP4057-SOT-23.step"
+  (model "${KIPRJMOD}/components/3D/TP4057-SOT-23.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -47,7 +47,7 @@
   (pad "2" smd rect (at 1.75 0.8 90) (size 0.6 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp ce7de05f-697d-42ce-9b22-dcccf98cab08))
   (pad "3" smd rect (at 1.75 -0.8 90) (size 0.6 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b5f368fb-737f-4090-8a2e-271f3118c243))
   (pad "4" smd rect (at -1.75 -0.8 90) (size 0.6 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fffb8564-82e0-487a-a675-c80dda03b88b))
-  (model "${KIPRJMOD}/component/3d/2450AT42E0100E-ANT.stp"
+  (model "${KIPRJMOD}/components/3D/2450AT42E0100E-ANT.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
