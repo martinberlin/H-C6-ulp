@@ -1,4 +1,4 @@
-22508812631981275
+22510530738410435
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -92175,6 +92175,13 @@ LIS2DH12TR
 0
 12
 12
+footprints
+QWIIC_SM04B-SRSS-TB_LFSN_
+SM04B-SRSS-TB(LFSN)
+Connector
+0
+6
+6
 footprints
 RV3032C7
 RV-3032-C7-1
