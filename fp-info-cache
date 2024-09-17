@@ -1,4 +1,4 @@
-22510530738410435
+22519154901779503
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -92169,6 +92169,20 @@ ECS-400-10-36B2-CKM-TR
 4
 4
 footprints
+IND-SMD_L2.5-W2.0_SPH252012
+
+
+0
+2
+2
+footprints
+KEY-SMD_K2-1806SQ-A3DW-04
+
+
+0
+7
+5
+footprints
 LIS2DH12TR_LGA-12_STM_Accel
 
 LIS2DH12TR 
@@ -92189,6 +92203,13 @@ Crystal or Oscillator
 0
 8
 8
+footprints
+S2BPHSM4TBLFSN
+S2B-PH-SM4-TB(LF)(SN)-2
+Connector
+0
+4
+4
 footprints
 SGM6029_WLCSP-6
 
@@ -92224,3 +92245,17 @@ usb usb-c 2.0 pd
 0
 20
 17
+footprints
+superCAP-XH414HG
+
+
+0
+2
+2
+footprints
+switch_SKSVCCE010
+SKSVCCE010-2
+Switch
+0
+4
+4
