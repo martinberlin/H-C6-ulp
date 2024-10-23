@@ -7,4 +7,5 @@
   (lib (name "EPD")(type "KiCad")(uri "${KIPRJMOD}/components/symbol/FH12-24S-0.5SH_55_.kicad_sym")(options "")(descr ""))
   (lib (name "QWIIC")(type "KiCad")(uri "${KIPRJMOD}/components/symbol/QWIIC_SM04B-SRSS-TB_LF__SN_.kicad_sym")(options "")(descr ""))
   (lib (name "easyeda")(type "KiCad")(uri "${KIPRJMOD}/components/symbol/easyeda2kicad.kicad_sym")(options "")(descr ""))
+  (lib (name "FLASH")(type "KiCad")(uri "${KIPRJMOD}/components/symbol/W25Q80DVSSIG_FLASH.kicad_sym")(options "")(descr ""))
 )
