@@ -34,4 +34,9 @@ IO Description
 
 ### 3D-Preview
 
+Last version 1.1:
+
+![Front PCB preview](/components/imgs/1.1-front.png)
+
+Failed release v1.0: We forgot to add SPI flash. Oh yeah, you won't flash it!
 ![Front PCB preview](/components/imgs/1.0-front.png)
