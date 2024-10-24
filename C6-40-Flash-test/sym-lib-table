@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "XIAO")(type "KiCad")(uri "${KIPRJMOD}/components/Seeeduino XIAO.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32C6")(type "KiCad")(uri "/home/martin/Documents/kicad/H-C6-ulp/components/symbol/Espressif.kicad_sym")(options "")(descr ""))
+  (lib (name "FLASH")(type "KiCad")(uri "/home/martin/Documents/kicad/H-C6-ulp/components/symbol/W25Q80DVSSIG_FLASH.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/components/footprint")(options "")(descr ""))
+  (lib (name "foot_main")(type "KiCad")(uri "/home/martin/Documents/kicad/H-C6-ulp/components/footprint")(options "")(descr ""))
+)
