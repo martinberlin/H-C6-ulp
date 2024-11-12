@@ -2,6 +2,6 @@
   (version 7)
   (lib (name "XIAO")(type "KiCad")(uri "${KIPRJMOD}/components/Seeeduino XIAO.kicad_sym")(options "")(descr ""))
   (lib (name "ESP32C6")(type "KiCad")(uri "/home/martin/Documents/kicad/H-C6-ulp/components/symbol/Espressif.kicad_sym")(options "")(descr ""))
-  (lib (name "FLASH")(type "KiCad")(uri "${KIPRJMOD}/components/AT25SF041-XMHD-T.kicad_sym")(options "")(descr ""))
   (lib (name "FLASH2")(type "KiCad")(uri "${KIPRJMOD}/components/W25Q128JVSIQ-FLASH.kicad_sym")(options "")(descr ""))
+  (lib (name "FLASH")(type "KiCad")(uri "${KIPRJMOD}/components/MX25R1635FZUIL0_TR_Flash.kicad_sym")(options "")(descr ""))
 )
